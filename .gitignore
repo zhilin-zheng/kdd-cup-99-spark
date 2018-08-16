@@ -4,3 +4,5 @@ sample_standardized/
 clustering_results.csv
 clustering_results_standardized.csv
 .Rhistory
+.ipynb*/*
+data/*
